@@ -14,3 +14,8 @@ mode.addEventListener("click",()=>{
  }
 })
 
+const message = document.querySelector('.message');
+message.addEventListener("click",()=>{
+    alert("Message Sent SucessFully")
+})
+
