@@ -29,7 +29,7 @@ nav{
     display:flex;
     justify-content: space-around;
     align-items: center;
-    width:60%;
+    width:70%;
     padding:20px;
     font-size: 20px;;
 
@@ -68,13 +68,14 @@ nav a:hover {
    align-items: center;
    text-align: justify;
    color: #9CA3AF;
-   line-height: 1.6;
+   line-height: 1.2;
 
 
 }
 .hero1 h1 {
   font-size:50px;
   color:#F5F5F5;
+  margin-bottom:9px;
 }
 h2{
     color:#d84082;
